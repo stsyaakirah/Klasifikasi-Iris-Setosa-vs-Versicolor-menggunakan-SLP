@@ -1,0 +1,1 @@
+# Klasifikasi-Iris-Setosa-vs-Versicolor-menggunakan-SLP
